@@ -1,0 +1,120 @@
+
+/* All Common Css start  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+a,
+a:hover {
+  text-decoration: none;
+  display: inline-block;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+  line-height: 0.8;
+}
+/* All Common Css end  */
+
+
+/* Header part End */
+#basicPart{
+  height: 600px;
+  padding: 100px;
+  background: linear-gradient(to right, #5a1436, #622224, #5e3519, #54451c, #47532d);
+}
+button{
+  padding: 10px 20px;
+  background-image: linear-gradient(to right, #263464, #32316c, #412c72, #542475, #671374);
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+.box{
+  height: 250px;
+  width: 250px;
+  border: none;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #266434, #477730, #6c8a28, #969a1e, #c6a71a);
+  margin-top: 20px;
+}
+.anotherBox{
+  height: 250px;
+  width: 250px;
+  border: none;
+  border-radius: 10px;
+  background-image: linear-gradient(to left, #b3ad30, #d07727, #ce3b4c, #a41676, #3f2d92);
+  margin-top: 20px;
+}
+
+/* Header part start  */
+
+/* Header part End */
+#countDownPart{
+  padding: 100px 0;
+  background-image: linear-gradient(to right, #8fb497, #749b09, #856b2c, #a45e36, #b94f54);
+}
+.boxTwo{
+  padding: 20px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+  background-image: linear-gradient(to left bottom, #e75f20, #6c6edb, #02bc90, #00abb8, #4f94b9);
+  margin-top: 20px;
+}
+
+
+/* Header part start  */
+
+/* Header part End */
+
+/* Header part start  */
+
+/* Header part End */
+
+/* Header part start  */
+
+/* Header part End */
+
+/* Header part start  */
+
+/* Header part End */
+
+/* Header part start  */
+
+/* Header part End */
+
+/* Header part start  */
+
+/* Header part End */
+
+/* Header part start  */
+
+/* Header part End */
+
+/* Header part start  */
+
+/* Header part End */
+
+/* Header part start  */
+
+/* Header part End */
+
+
