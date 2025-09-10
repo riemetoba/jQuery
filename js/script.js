@@ -48,9 +48,8 @@
 
 
 
-
-
-    (function () {
+// ==================CountDown Part Start============== 
+(function () {
   const second = 1000,
         minute = second * 60,
         hour = minute * 60,
@@ -63,7 +62,7 @@
       mm = String(today.getMonth() + 1).padStart(2, "0"),
       yyyy = today.getFullYear(),
       nextYear = yyyy + 1,
-      dayMonth = "09/15/",
+      dayMonth = "09/20/",
       birthday = dayMonth + yyyy;
   
   today = mm + "/" + dd + "/" + yyyy;
@@ -94,12 +93,11 @@
       }, 0)
   }());
 
-
-
+// ==================CountDown Part End==============
 
 
 //   =================>
-    jQuery(document).ready(function($) {
+   jQuery(document).ready(function($) {
             $('.counter').counterUp({
                 delay: 10,
                 time: 1000

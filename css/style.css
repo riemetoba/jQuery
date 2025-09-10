@@ -66,6 +66,7 @@ button{
 
 /* Header part End */
 #countDownPart{
+  height: 250px;
   padding: 100px 0;
   background-image: linear-gradient(to right, #8fb497, #749b09, #856b2c, #a45e36, #b94f54);
 }
